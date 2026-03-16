@@ -1,5 +1,5 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
-# Name:p.pramisha
+# Name:P.Pramisha
 ## AIM:
 To Implement ELGAMAL ALGORITHM
 
@@ -80,6 +80,6 @@ int main() {
 
 ## Output:
 
-
+![alt text](<Screenshot 2026-03-16 142507-1.png>)
 ## Result:
 The program is executed successfully.
